@@ -1,14 +1,13 @@
 # Skills & Interests
 
-- [Skill 1] – Example of use
-- [Skill 2] – Example of use
-- [Skill 3] – Example of use
-- Interests: [Interest 1], [Interest 2], [Interest 3]
 
-- [Home](/)
-- [About Me](/about)
-- [Projects](/projects)
-- [Achievements](/achievements)
-- [Skills](/skills)
-- [Conferences](/conferences)
-- [Contact](/contact)
+## Skills
+- **Research & Analysis** – Conducting independent research and presenting findings
+- **Leadership & Collaboration** – Leading group projects and working effectively in teams
+- **Technical Skills** – Microsoft Office, basic coding (Python), website creation
+
+## Interests
+- Science & Technology
+- Environmental Sustainability
+- Public Speaking & Debate
+- Reading & Creative Writing
